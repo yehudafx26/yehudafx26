@@ -1,5 +1,5 @@
 %% YEHU PHRASE EXAMPLES
-% Champ C. Darabundit and Zhen Zhang, CAML 2026
+% Champ C. Darabundit and Zhen Zheng, CAML 2026
 
 clear;
 close all;
